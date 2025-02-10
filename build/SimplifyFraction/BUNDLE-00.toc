@@ -1,0 +1,4 @@
+([('Simplify',
+   '/Users/sandra/Documents/Coding Projects/Helpful Homemade '
+   'Programs/SimplifyFunction/dist/Simplify',
+   'EXECUTABLE')],)
